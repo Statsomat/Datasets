@@ -1,0 +1,3 @@
+Coping =~ x2+x3+x4
+Social =~ x4+x6+x7+x8
+Enhance=~ x10+x11+x12
