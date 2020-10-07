@@ -8,5 +8,5 @@ corr<- matrix(c(1.00, 0.39,0.35,0.21,0.32,0.4,0.39,0.39,
 .39,  .32,  .30,  .31,  .42,  .41, 1.00, 0.42,
 .39,  .29,  .37,  .42,  .58,  .51,  .42, 1.00), nrow= 8)
 colnames <- c("handmov", "numbrec", "wordord", "gesclos", "triangle", "spatmem", "matanalg", "photser")
-setwd("C:/Users/berit/Desktop/Reyar/CFA/case5")
+
 simulation(colnames,200, sd, corr,"case5.csv" )
