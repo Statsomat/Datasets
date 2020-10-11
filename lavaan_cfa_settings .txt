@@ -1,0 +1,27 @@
+# Block 1
+fit <- cfa(model, data=hs, estimator="ML", missing="FIML")
+summary(fit, fit.measures=TRUE)
+summary(fit, standardized=TRUE, fit.measures=TRUE)
+head(predict(fit))
+
+
+# Block 2
+fit <- cfa(model, data=hs, estimator="ML", missing="FIML", std.lv=TRUE)
+summary(fit, fit.measures=TRUE)
+summary(fit, standardized=TRUE, fit.measures=TRUE)
+head(predict(fit))
+
+
+# Block 3
+fit <- cfa(model, data=hs, estimator="ML", missing="FIML", std.ov=TRUE)
+summary(fit, fit.measures=TRUE)
+summary(fit, standardized=TRUE, fit.measures=TRUE)
+head(predict(fit))
+
+
+
+# Block 4
+fit <- cfa(model, data=hs, estimator="ML", missing="FIML", std.ov=TRUE, std.lv=TRUE)
+summary(fit, fit.measures=TRUE)
+summary(fit, standardized=TRUE, fit.measures=TRUE)
+head(predict(fit))
