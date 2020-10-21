@@ -1,0 +1,3 @@
+f1 =~ NA*info_06 + NA*voca_06 
+f2 =~ NA*comp_06 + NA*simi_06
+  
