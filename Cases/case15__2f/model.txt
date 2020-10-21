@@ -1,3 +1,3 @@
-f1 =~ NA*info_06 + NA*voca_06 
-f2 =~ NA*comp_06 + NA*simi_06
+f1 =~ info_06 + voca_06 
+f2 =~ comp_06 + simi_06
   
