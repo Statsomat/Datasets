@@ -1,3 +1,0 @@
-fitness ~ exercise
- stress ~ hardiness
- illness ~ fitness + stress
