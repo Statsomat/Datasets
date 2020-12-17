@@ -1,1 +1,5 @@
 Roth-Amos in https://www.guilford.com/companion-site/Principles-and-Practice-of-Structural-Equation-Modeling-Fourth-Edition/9781462523344/files
+
+Detailled Example: 
+Kline, Rex B.. Principles and Practice of Structural Equation Modeling, Fourth Edition (Methodology in the Social Sciences) (S.82). Guilford Publications. Kindle-Version. 
+Recursive path model of illess, Table 4.2, Figure 7.5

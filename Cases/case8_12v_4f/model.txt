@@ -1,0 +1,4 @@
+Constru =~ bel + st + ima
+Dysfunc =~ pr1 + pr2 + app
+WellBe =~ hap + md1 + md2
+JobSat =~ wk1 + wk2 + wk3
