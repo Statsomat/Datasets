@@ -1,0 +1,2 @@
+AUDITORY=~ X1+ X2 + X3
+VISUAL =~ X4 + X5 + X6
