@@ -1,0 +1,13 @@
+ AOC =~ aoc
+ COC =~ coc
+ NOC =~ noc
+ APC =~ apc
+ CPC =~ cpc
+ NPC =~ npc
+ OrgTI =~ orgti
+ OccTI =~ occti
+
+ OrgTI ~ AOC + COC + NOC
+ OccTI ~ APC + CPC + NPC
+ OrgTI ~ OccTI
+ OccTI ~ OrgTI
