@@ -1,3 +1,5 @@
+library(lavaan)
+
 houghtonLower.cor <- '
 1.000
 .668 1.000
@@ -27,4 +29,4 @@ simulation <- function(colnames, N,sd, correlationmatrix, dateiname){
   return(data)
 }
 simulation(colnames(cor), 
-           177,sd=sds, cor, "case18.csv" )
+           177,sd=sds, cor, "case26.csv" )

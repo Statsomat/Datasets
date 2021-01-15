@@ -1,0 +1,2 @@
+Initial =~ 1*tr1 + 1*tr2 + 1*tr3 + 1*tr4 + 1*tr5+ 1*tr6
+Shape =~ 0*tr1 + 1*tr2 + NA*tr3 + NA*tr4 + NA*tr5+ NA*tr6

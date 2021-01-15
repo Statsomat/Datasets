@@ -1,6 +1,14 @@
+4-factor-model:
+
 Constru =~ bel + st + ima
 Dysfunc =~ pr1 + pr2 + app
 WellBe =~ hap + md1 + md2
 JobSat =~ wk1 + wk2 + wk3
 
 hap ~~ md2 
+
+
+
+one factor model: 
+
+Global =~ bel + st + ima+ pr1 + pr2 + app+hap + md1 + md2+ wk1 + wk2 + wk3
