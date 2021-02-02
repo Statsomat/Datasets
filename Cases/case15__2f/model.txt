@@ -1,3 +1,59 @@
-f1 =~ info_06 + voca_06 
-f2 =~ comp_06 + simi_06
+# latent variable definitions (common factors)
+  verbal =~ NA*info_06 + NA*voca_06 + NA*comp_06 + NA*simi_06
+  
+# latent variable variances
+  verbal ~~ 1*verbal
+
+# latent variable covariances
+# latent variable means
+
+# manifest variable variances (uniquenesses)
+  info_06 ~~ info_06
+  voca_06 ~~ voca_06
+  comp_06 ~~ comp_06
+  simi_06 ~~ simi_06
+            
+# manifest variable covariances (uniquenesses)
+
+#manifest variable means 
+  info_06 ~ 1
+  voca_06 ~ 1
+  comp_06 ~ 1
+  simi_06 ~ 1
+
+
+################################################################################
+
+#Model with 1 common factor 
+verbal_2factor <- ' #start of model
+
+# latent variable definitions (common factors)
+  f1 =~ NA*info_06 + NA*voca_06 
+  f2 =~ NA*comp_06 + NA*simi_06
+  
+# latent variable variances
+  f1 ~~ 1*f1
+  f2 ~~ 1*f2
+
+# latent variable covariances
+  f1 ~~ f2
+# latent variable means
+
+# manifest variable variances (uniquenesses)
+  info_06 ~~ info_06
+  voca_06 ~~ voca_06
+  comp_06 ~~ comp_06
+  simi_06 ~~ simi_06
+            
+# manifest variable covariances (uniquenesses)
+
+#manifest variable means 
+  info_06 ~ 1
+  voca_06 ~ 1
+  comp_06 ~ 1
+  simi_06 ~ 1
+' #end of model
+
+
+
   
