@@ -1,3 +1,88 @@
-f1 =~ info06 + voca06 
-f2 =~ comp06 + simi06
+
+# latent variable definitions (common factors)
+  verbal =~ NA*info06 + NA*voca06 + NA*comp06 + NA*simi06
   
+# latent variable variances
+  verbal ~~ 1*verbal
+
+# latent variable covariances
+# latent variable means
+
+# manifest variable variances (uniquenesses)
+  info06 ~~ info06
+  voca06 ~~ voca06
+  comp06 ~~ comp06
+  simi06 ~~ simi06
+            
+# manifest variable covariances (uniquenesses)
+
+#manifest variable means 
+  info06 ~ 1
+  voca06 ~ 1
+  comp06 ~ 1
+  simi06 ~ 1
+  
+
+
+
+
+
+
+
+# latent variable definitions (common factors)
+  f1 =~ NA*info06 + NA*voca06 
+  f2 =~ NA*comp06 + NA*simi06
+  
+# latent variable variances
+  f1 ~~ 1*f1
+  f2 ~~ 1*f2
+
+# latent variable covariances
+  f1 ~~ f2
+# latent variable means
+
+# manifest variable variances (uniquenesses)
+  info06 ~~ info06
+  voca06 ~~ voca06
+  comp06 ~~ comp06
+  simi06 ~~ simi06
+            
+# manifest variable covariances (uniquenesses)
+
+#manifest variable means 
+  info06 ~ 1
+
+
+
+
+
+
+
+
+
+
+# latent variable definitions (common factors)
+  G =~ NA*comp06 + NA*voca06 + NA*bloc06 + NA*obje06
+  
+# latent variable variances
+  G ~~ 1*G
+
+# latent variable covariances
+# latent variable means
+
+# manifest variable variances (uniquenesses)
+  comp06 ~~ comp06
+  voca06 ~~ voca06
+  bloc06 ~~ bloc06
+  obje06 ~~ obje06
+            
+# manifest variable covariances (uniquenesses)
+
+#manifest variable means 
+  comp06 ~ 1
+  voca06 ~ 1
+  bloc06 ~ 1
+  obje06 ~ 1
+  voca06 ~ 1
+  comp06 ~ 1
+  simi06 ~ 1
