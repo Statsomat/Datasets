@@ -1,1 +1,3 @@
 Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, Second Edition (Methodology in the Social Sciences) (S.245). Guilford Publications. Kindle-Version. 
+
+dataset simulated, MIT license. 

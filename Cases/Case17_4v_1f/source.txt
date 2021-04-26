@@ -1,4 +1,4 @@
 Table 2.2
 Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, Second Edition (Methodology in the Social Sciences) (S.13). Guilford Publications. Kindle-Version. 
 
-data in : http://sites.bu.edu/tabrown/cfabook/
+(Simulated) data license: MIT

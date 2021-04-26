@@ -1,2 +1,4 @@
 Figure 7.5
 Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, Second Edition (Methodology in the Social Sciences) (S.275). Guilford Publications. Kindle-Version. 
+
+Dataset simulated, MIT license. 

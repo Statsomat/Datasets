@@ -1,1 +1,3 @@
 Kline, Rex B.. Principles and Practice of Structural Equation Modeling, Fourth Edition (Methodology in the Social Sciences) (S.342). Guilford Publications. Kindle-Version. 
+
+dataset simulated, MIT license. 

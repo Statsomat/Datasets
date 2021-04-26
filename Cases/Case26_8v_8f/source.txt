@@ -3,3 +3,5 @@ Kline, Rex B.. Principles and Practice of Structural Equation Modeling, Fourth E
 
 
 https://www.guilford.com/companion-site/Principles-and-Practice-of-Structural-Equation-Modeling-Fourth-Edition/9781462523344/files
+
+Dataset simulated, MIT license.

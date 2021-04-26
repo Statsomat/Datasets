@@ -1,1 +1,3 @@
 https://quantdev.ssri.psu.edu/tutorials/intro-basic-confirmatory-factor-analysis
+
+Dataset permission: Public download, no restrictions listed.  

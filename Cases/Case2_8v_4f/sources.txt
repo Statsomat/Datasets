@@ -1,1 +1,4 @@
-Book of Brown, Page 122: CFA with Single Indicators: Health Status data. 
+Interpretation source: Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, 
+Second Edition (Methodology in the Social Sciences) Guilford Publications.
+
+Dataset permission: 
