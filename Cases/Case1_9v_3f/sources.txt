@@ -1,5 +1,8 @@
+Please select only the variables x1-x9. 
+
 Interpretation: http://www.understandingdata.net/2017/03/22/cfa-in-lavaan/
 
-Dataset permission resp. license: 
-GPL: https://cran.r-project.org/web/packages/lavaan/lavaan.pdf
+Dataset permission resp. license: GPL (https://cran.r-project.org/web/packages/lavaan/lavaan.pdf)
+
+
 
