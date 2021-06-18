@@ -1,12 +1,13 @@
 # Confirmatory-factor-analysis
 
-This repository is for the testing of the app Statsomat/CFA. The results are saved in the file `Tests_CFA.xlsx`.
+This repository contains the work for the testing of the app Statsomat/CFA. The results are saved in the file `Tests_CFA.xlsx`.
 
 Preliminary information
 
 Link for the app: https://statsomat.shinyapps.io/confirmatory-factor-analysis/.
 
-A testing case is made of:  
+The app is tested by means of relevant data cases from literature. A testing case is made of: 
+
 •	a CSV file  
 •	a model in lavaan syntax (saved as a TXT file)  
 •	references for the dataset and for the interpretation   
