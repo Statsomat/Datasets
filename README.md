@@ -9,7 +9,7 @@ Link for the app: https://statsomat.shinyapps.io/confirmatory-factor-analysis/.
 A testing case is made of:  
 •	a CSV file  
 •	a model in lavaan syntax (saved as a TXT file)  
-•	sources of the dataset and of the interpretation   
+•	references for the dataset and for the interpretation   
 
 Please mention the number of variables and the factors in the name of the case folder.
 
@@ -37,9 +37,7 @@ https://stats.idre.ucla.edu/spss/seminars/introduction-to-factor-analysis/a-prac
 •	Complex, several CFA calls, try all of them: http://faculty.missouri.edu/huangf/data/mcfa/MCFA%20in%20R%20HUANG.pdf
 
 
-5.	Simulate datasets for testing cases (given covariance or correlation matrices plus mean vectors). Simulate the number of observations shown in the book. Try this link:
-
-a.	https://www.r-bloggers.com/simulating-random-multivariate-correlated-data-continuous-variables/	
+5.	Simulate datasets for testing cases (given covariance or correlation matrices plus mean vectors). Simulate the number of observations shown in the book. Try this link:  https://www.r-bloggers.com/simulating-random-multivariate-correlated-data-continuous-variables/	
 
 6.	Report the tests in the file Tests_CFA.xlsx. Compare the output of the app with the output from the book and make your comments. Mark with blue/green/yellow/red. Each case should have its own Github issue for discussions – please create the issues if not available. 
 
