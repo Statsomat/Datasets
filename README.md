@@ -6,7 +6,7 @@ Preliminary information
 
 Link for the app: https://statsomat.shinyapps.io/confirmatory-factor-analysis/.
 
-A testing case is made of: 
+A testing case is made of:  
 •	a CSV file  
 •	a model in lavaan syntax (saved as a TXT file)  
 •	sources of the dataset and of the interpretation   
