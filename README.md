@@ -7,9 +7,9 @@ Preliminary information
 Link for the app: https://statsomat.shinyapps.io/confirmatory-factor-analysis/.
 
 A testing case is made of: 
-•	a CSV file
-•	a model in lavaan syntax (saved as a TXT file) 
-•	sources of the dataset and of the interpretation 
+•	a CSV file  
+•	a model in lavaan syntax (saved as a TXT file)  
+•	sources of the dataset and of the interpretation   
 
 Please mention the number of variables and the factors in the name of the case folder.
 
