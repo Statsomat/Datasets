@@ -1,4 +1,4 @@
-# Confirmatory-factor-analysis
+# CFA-Testing
 
 This repository contains the work for the testing of the app Statsomat/CFA. The results are saved in the file `Tests_CFA.xlsx`.
 
