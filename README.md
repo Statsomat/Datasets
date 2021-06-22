@@ -4,7 +4,9 @@ This repository contains testing data cases and testing results for the app http
 
 •	a CSV file to be uploaded to the Statsomat/CFA app  
 •	a model in `lavaan` syntax to be typed directly in the browser of the app, saved in `Cases/model.txt`  
-•	links and references for the dataset and for the interpretation, to be compared to the text interpretation delivered by the Statsomat/CFA app, saved in `Cases/sources.txt`   
+•	links and references for the dataset and for the interpretation, to be compared to the text interpretation delivered by the Statsomat/CFA app, saved in `Cases/sources.txt`
+•	reports of the app generated before the release of v1.0 (reports generated during testing) 
+
 
 
 
