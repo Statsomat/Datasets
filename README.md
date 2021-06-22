@@ -1,6 +1,6 @@
 # CFA-Testing
 
-This repository contains the work for the testing of the app Statsomat/CFA. The results are saved in the file `Tests_CFA.xlsx`.
+This repository contains the work for the testing of the app https://github.com/Statsomat/CFA. The test results are saved in the file `Tests_CFA.xlsx`.
 
 Preliminary information
 
