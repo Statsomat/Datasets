@@ -1,4 +1,5 @@
+Dataset source: http://sites.bu.edu/tabrown/cfabook/
+Dataset permission: Public download / no license specified
 Interpretation source: Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, 
-Second Edition (Methodology in the Social Sciences) Guilford Publications.
+Second Edition (Methodology in the Social Sciences) Guilford Publications., 2015
 
-Dataset permission: 
