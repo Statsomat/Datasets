@@ -1,4 +1,0 @@
-Interpretation: Brown, Timothy A.. Confirmatory Factor Analysis for Applied Research, 
-Second Edition (Methodology in the Social Sciences) (p.100, 108). Guilford Publications,2015 Kindle-Version. 
-Simulated dataset. 
-Dataset permission resp. license: MIT
