@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-# CFA-Testing
+# Use Cases for the Statsomat/CFA app
 
 This repository contains use data cases and testing results for the Statsomat/CFA app (https://github.com/Statsomat/CFA). The testing results are saved in the file `Tests_CFA.xlsx`. Each use data case is located in the `Cases` folder and contains:  
 
