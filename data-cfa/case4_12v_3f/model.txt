@@ -1,0 +1,10 @@
+# Model 1
+Coping =~ x1+x2+x3+x4
+Social =~ x5+x6+x7+x8
+Enhance=~ x9+x10+x11+x12
+
+# Model 2
+Coping =~ x1+x2+x3+x4
+Coping2 =~ x1+x2+x3
+Social =~ x5+x6+x7+x8
+Enhance=~ x9+x10+x11+x12

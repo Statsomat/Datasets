@@ -1,0 +1,3 @@
+http://faculty.missouri.edu/huangf/data/mcfa/MCFA%20in%20R%20HUANG.pdf
+
+(specific: http://faculty.missouri.edu/huangf/data/mcfa/)

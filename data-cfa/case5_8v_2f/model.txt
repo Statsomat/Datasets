@@ -1,0 +1,2 @@
+Sequent =~ handmov +numbrec +wordord
+ Simul =~ gesclos+ triangle +spatmem+ matanalg +photser

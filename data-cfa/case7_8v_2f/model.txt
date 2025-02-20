@@ -1,0 +1,2 @@
+Sequent =~ hm + nr + wo
+Simultan =~ gc + tr + sm + ma + ps 

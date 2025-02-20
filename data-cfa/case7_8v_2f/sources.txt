@@ -1,0 +1,5 @@
+Chapter 13. Analysis of CFA Models
+Detailed example: Two-factor model of the KABC-I, Figure 9.7, Table 13.1, 
+https://www.guilford.com/companion-site/Principles-and-Practice-of-Structural-Equation-Modeling-Fourth-Edition/9781462523344/files
+
+Simulated dataset, License MIT
