@@ -29,3 +29,7 @@ The NCI60 dataset contains gene expression measurements for 6,830 genes across 6
 
 6. cacao.csv
 Cacao trees plots, paper attached. 
+
+For other data see:
+California housing: https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
+Datasets from Elements of Statistical Learning:  https://hastie.su.domains/ElemStatLearn/
