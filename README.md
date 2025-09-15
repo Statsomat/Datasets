@@ -1,5 +1,9 @@
 
-# Datasets used in different courses of Denise Welsch, Hochschule Koblenz, especially in connection with Statsomat Apps https://statsomat.com/ 
+# Datasets 
+
+### used in different courses of Denise Welsch, Hochschule Koblenz
+
+### especially in connection with Statsomat Apps https://statsomat.com/ 
 
 ## Statsomat/CFA App
 Each use data case for the CFA app contains:  
