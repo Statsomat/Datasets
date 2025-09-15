@@ -1,6 +1,7 @@
 
-# Datasets for ML and for the Statsomat/CFA app
+# Datasets used in different courses of Denise Welsch, Hochschule Koblenz, especially in connection with Statsomat Apps https://statsomat.com/ 
 
+## Statsomat/CFA App
 Each use data case for the CFA app contains:  
 
 •	a CSV file which can be used with the Statsomat/CFA app  
