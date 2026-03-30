@@ -1,10 +1,12 @@
 
 # Datasets 
+used in different lectures held by Denise Welsch, University of Applied Sciences Koblenz. 
 
-### Used in different lectures held by Denise Welsch, University of Applied Sciences Koblenz. 
+## data-ml
+used especially in Machine Learning, Data Science and Bioinformatics. 
 
-## Statsomat/CFA App
-Each use data case for the CFA app contains:  
+## data-cfa
+used especially by the Statsomat/CFA App. Each use data case for the CFA app contains:  
 
 •	a CSV file which can be used with the Statsomat/CFA app  
 •	a model in `lavaan` syntax to be typed directly in the browser of the app 
