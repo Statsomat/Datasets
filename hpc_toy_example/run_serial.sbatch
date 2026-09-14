@@ -1,14 +1,8 @@
 #!/bin/bash
-# ---------------------------------------------------------------
 # run_serial.sbatch -- THE SLOW WAY (for comparison)
 #
-# Runs the identical work as submit_all.sh, but as ONE job that
-# loops over all 12 files one after another. This is what the
-# pipeline looks like before parallelization.
-#
-# Submit with:  sbatch run_serial.sbatch
-# Then compare against:  bash submit_all.sh   (the parallel version)
-# ---------------------------------------------------------------
+# Identical work to submit_all.sh, but as ONE job looping over all 12
+# files one after another. Submit with:  bash run_serial.sh
 #SBATCH --job-name=serial_all
 #SBATCH --output=logs/serial_%j.out
 #SBATCH --time=00:30:00
@@ -16,10 +10,13 @@
 #SBATCH --mem=512M
 
 set -euo pipefail
+# --- environment (identical in every stage; matches the course slides) ---
 module purge
-module load Python/3.14.2-GCCcore-15.2.0 2>/dev/null || true
+module load Miniforge3/24.11.3-0
+eval "$(conda shell.bash hook)"    # needed for `conda activate` in batch jobs
+conda activate forschproj2627
 
-# Must match stage_a.sh for the comparison to be fair
+# Must match stage_a.sbatch for the comparison to be fair
 export TOY_WORK_SECONDS="${TOY_WORK_SECONDS:-20}"
 
 echo "=== SERIAL run started: $(date) ==="
